@@ -1,0 +1,52 @@
+	h1  {
+		text-align: center;
+	}
+
+	.red {
+		color: red;
+	}
+
+	.blue {
+		color: blue;
+	}
+
+	.green {
+		color: green;
+	}
+
+	.bigger {
+		font-size: 75px;
+	}
+
+	.small {
+		font-size: 5px;
+	}
+
+	.centered {
+		text-align: center;
+	}
+
+	.bold {
+		font-weight: bold;
+	}
+
+	.changefont {
+		font-family: Impact, sans-serif
+	}
+
+	.multiple {
+		color: orange;
+		font-size: 65px;
+		font-weight: bold;
+
+	}
+
+	.styledFont {
+		font-style: italic;
+	}
+
+	img {
+		border: 15px blue;  
+		border-style:dotted solid double dashed;
+		padding: 2px;
+	}
